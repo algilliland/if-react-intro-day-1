@@ -1,3 +1,8 @@
+# Install and running instructions 
+Follow install instructions from https://www.npmjs.com/get-npm
+Set up this gitrepo and navigate into the directory.
+Run `npm install` followed by `npm start`
+
 # Intro to React - Demos
 
 Boilerplate to demo some code in React
